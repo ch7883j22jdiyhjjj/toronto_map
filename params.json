@@ -1,0 +1,30 @@
+{
+  "locations": [
+      {
+      "name": "Home",
+      "coordinates": [43.642580, -79.387022],
+      "popup": "Home",
+      "icon_color": "black",
+      "icon_type": "home",
+      "icon": "home"
+    },
+    {
+      "name": "Work1",
+      "coordinates": [43.653582, -79.384002],
+      "popup": "Work1",
+      "icon_color": "black",
+      "icon_type": "building",
+      "icon": "building",
+      "prefix": "fa"
+    },
+    {
+      "name": "Work2",
+      "coordinates": [43.640652, -79.385944],
+      "popup": "Work2",
+      "icon_color": "black",
+      "icon_type": "building",
+      "icon": "building",
+      "prefix": "fa"
+    }
+  ]
+}
