@@ -5,3 +5,5 @@ This includes fire stations, TTC stations, subway lines, work, home, UP trains, 
 All this is pulled dynamically at run time and overlaid on a single map.
 
 It can be customized based on the data found in the Toronto Open Data Portal: https://www.toronto.ca/city-government/data-research-maps/open-data/
+
+Updated shape files for the future transit lines can be acquired at https://www.metrolinx.com/en/about-us/open-data
